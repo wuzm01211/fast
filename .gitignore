@@ -1,0 +1,10 @@
+/nbproject/
+.idea
+composer.lock
+*.log
+thinkphp
+vendor
+runtime
+public/assets/libs/
+/application/admin/command/Install/*.lock
+/public/uploads
